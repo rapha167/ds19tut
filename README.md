@@ -1,6 +1,6 @@
 # Datenstrukturen
 Hier werden im Laufe des Semesters ein paar _inoffizielle_ Implementierungen von Algorithmen und Datenstrukturen aus der Vorlesung und aus den Übungen hochgeladen.
-Die Programme sollen Stoff veranschaulichen und euch motivieren, euch selbst an Implementierungen von Pseudocode zu versuchen.
+Die Programme sollen Stoff veranschaulichen und euch motivieren, euch selbst an der Implementierung von Pseudocode aus euren Abgaben zu versuchen.
 
 **Benutzung auf eigene Gefahr**
 
